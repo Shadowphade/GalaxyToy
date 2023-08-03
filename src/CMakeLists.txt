@@ -1,0 +1,6 @@
+include_directories(../include)
+add_library(Star Star.cpp)
+add_library(Velocity Velocity.cpp)
+add_library(Window Window.cpp)
+add_library(Generate Generate.cpp)
+add_library(UI UI.cpp)

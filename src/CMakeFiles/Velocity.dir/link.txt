@@ -1,0 +1,2 @@
+/usr/bin/ar qc libVelocity.a CMakeFiles/Velocity.dir/Velocity.cpp.o
+/usr/bin/ranlib libVelocity.a

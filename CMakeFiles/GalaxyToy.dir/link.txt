@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/GalaxyToy.dir/main.cpp.o -o GalaxyToy   -L/home/rhysm/Projects/GalaxyToy/src  -Wl,-rpath,/home/rhysm/Projects/GalaxyToy/src src/libVelocity.a src/libStar.a src/libWindow.a src/libGenerate.a src/libUI.a -lSDL2main -lSDL2 -lGL -lSDL2_ttf 
