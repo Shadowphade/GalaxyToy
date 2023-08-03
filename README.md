@@ -8,7 +8,11 @@ OpenGL
 
 ## Build Instructions
 `git clone https://github.com/Shadowphade/GalaxyToy`
+
 `mkdir build`
+
 `cd build`
+
 `cmake ..`
+
 `make`
